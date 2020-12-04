@@ -1,0 +1,4 @@
+1,Professor Trent,Professor,Computer Science
+3,Professor Other,Assoc. Prof,Liberal Arts
+2,Professor Ryan,TA,Engineering
+4,Rene,Dean,history
